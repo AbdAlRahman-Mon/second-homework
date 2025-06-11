@@ -187,3 +187,4 @@ D:/Nawzat/Desktop/SE2-MVC&N-tier/MvcTodoApp_SV/obj/Debug/net9.0/compressed/vpgll
 /media/abdalrahman/HDD/My Lectuer/سنة رابعة/فصل ثاني/هندسة برمجيات/عملي/MvcTodoApp_SV/obj/Debug/net9.0/MvcTodoApp.pdb
 /media/abdalrahman/HDD/My Lectuer/سنة رابعة/فصل ثاني/هندسة برمجيات/عملي/MvcTodoApp_SV/obj/Debug/net9.0/MvcTodoApp.genruntimeconfig.cache
 /media/abdalrahman/HDD/My Lectuer/سنة رابعة/فصل ثاني/هندسة برمجيات/عملي/MvcTodoApp_SV/obj/Debug/net9.0/ref/MvcTodoApp.dll
+/media/abdalrahman/HDD/My Lectuer/سنة رابعة/فصل ثاني/هندسة برمجيات/عملي/MvcTodoApp_SV/obj/Debug/net9.0/MvcTodoApp.sourcelink.json
